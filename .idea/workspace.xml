@@ -1,7 +1,380 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afb2a74-3b01-4b85-b67b-fe94dba591f2" name="Default" comment="" />
+    <list default="true" id="6afb2a74-3b01-4b85-b67b-fe94dba591f2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/fonts/themify.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/fonts/themify.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/fonts/themify.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/agenda.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/alarm-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/align-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/align-justify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/align-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/align-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/anchor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/android.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/angle-double-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/angle-double-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/angle-double-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/angle-double-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/angle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/angle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/angle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/angle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/announcement.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/apple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/archive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-circle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-circle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-circle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-circle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-top-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-top-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrows-corner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrows-horizontal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/arrows-vertical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/back-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/back-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/bar-chart-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/bar-chart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/basketball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/bell.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/blackboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/bolt-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/bolt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/bookmark-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/bookmark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/briefcase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/brush-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/brush.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/car.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/check-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/clip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/cloud-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/cloud-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/comment-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/comment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/comments-smiley.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/comments.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-backward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-eject.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-pause.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-record.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-shuffle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-skip-backward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-skip-forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/control-stop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/credit-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/crown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/css3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/cup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/cut.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/dashboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/desktop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/direction-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/direction.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/download.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/dribbble.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/dropbox-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/dropbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/drupal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/email.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/envelope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/eraser.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/exchange-vertical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/export.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/eye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/face-sad.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/face-smile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/files.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/filter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/flag-alt-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/flag-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/flickr-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/flickr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/folder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/fullscreen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/gallery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/game.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/gift.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/github.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/google.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/hand-drag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/hand-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/hand-point-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/hand-point-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/hand-point-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/hand-point-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/hand-stop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/harddrive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/harddrives.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/headphone-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/headphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/heart-broken.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/help-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/help.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/home.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/html5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/hummer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/id-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/import.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/infinite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/info-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/ink-pen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/instagram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/joomla.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/jsfiddle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/key.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layers-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-accordion-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-accordion-merged.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-accordion-separated.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-column2-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-column2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-column3-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-column3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-column4-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-column4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-cta-btn-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-cta-btn-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-cta-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-cta-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-cta-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-grid2-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-grid2-thumb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-grid2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-grid3-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-grid3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-grid4-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-grid4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-line-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-list-large-image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-list-post.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-list-thumb-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-list-thumb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-center-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-left-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-overlay-alt-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-overlay-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-overlay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-right-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-media-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-menu-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-menu-separated.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-menu-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-menu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-placeholder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-sidebar-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-sidebar-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-sidebar-none.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-sidebar-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-slider-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-slider.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-tab-min.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-tab-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-tab-window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-tab.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-width-default-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-width-default.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout-width-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/layout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/light-bulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/line-dashed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/line-dotted.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/line-double.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/link.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/linkedin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/linux.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/list-ol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/location-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/location-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/lock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/loop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/magnet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/map-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/marker-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/medall-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/medall.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/menu-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/menu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/microphone-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/microphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/microsoft-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/microsoft.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/mobile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/money.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/more-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/more.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/mouse-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/mouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/music-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/music.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/na.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/new-window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/notepad.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/package.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/paint-bucket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/paint-roller.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/palette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/panel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/paragraph.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pencil-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pencil-alt2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pie-chart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pin-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pin2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pinterest-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pinterest.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/plug.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/power-off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/printer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/pulse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/quote-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/quote-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/receipt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/reddit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/reload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/rocket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/rss-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/rss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/ruler-alt-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/ruler-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/ruler-pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/ruler.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/save-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/save.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/server.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/settings.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/share-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/share.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/sharethis-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/sharethis.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shield.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shift-left-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shift-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shift-right-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shift-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shine.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shopping-cart-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shopping-cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/shortcode.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/signal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/skype.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/slice.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/smallcap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/soundcloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/split-h.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/split-v-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/split-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/spray.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/stack-overflow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/stamp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/stats-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/stats-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/support.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/tablet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/tag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/target.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/text.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/themify-favicon-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/themify-favicon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/themify-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/thought.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/thumb-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/thumb-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/ticket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/time.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/timer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/trash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/trello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/truck.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/tumblr-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/tumblr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/twitter-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/underline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/unlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/unlock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/upload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/uppercase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/user.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/vector.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/video-camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/video-clapper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/view-grid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/view-list-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/view-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/vimeo-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/vimeo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/wallet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/wand.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/wheelchair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/widget-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/widget.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/widgetized.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/window.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/wordpress.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/world.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/write.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/yahoo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/youtube.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/zip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/zoom-in.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/SVG/zoom-out.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/Themify IconFonts 5-23-2014.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/demo-files/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/fonts/themify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/ie7/ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/ie7/ie7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themify-icons/themify-icons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/css/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepros-6.config" afterPath="$PROJECT_DIR$/prepros-6.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/responsive.scss" afterPath="$PROJECT_DIR$/responsive.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variables.scss" afterPath="$PROJECT_DIR$/variables.scss" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,13 +383,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="-295">
+              <caret line="230" column="26" lean-forward="true" selection-start-line="230" selection-start-column="26" selection-end-line="230" selection-end-column="26" />
+              <folding>
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -24,18 +400,8 @@
       <file leaf-file-name="variables.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="-396">
+              <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -43,6 +409,42 @@
       </file>
       <file leaf-file-name="responsive.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/responsive.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+              <folding>
+                <element signature="e#167#804#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1692">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <marker date="1517224782647" expanded="true" signature="81:107" ph="{...}" />
+                <marker date="1517224782647" expanded="true" signature="7556:8369" ph="{...}" />
+                <marker date="1517224782647" expanded="true" signature="7556:8371" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -59,7 +461,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/img/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/variables.scss" />
         <option value="$PROJECT_DIR$/style.scss" />
+        <option value="$PROJECT_DIR$/responsive.scss" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -106,6 +513,17 @@
               <item name="Hapo-ERP-bs-scss" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Hapo-ERP-bs-scss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hapo-ERP-bs-scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="style.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="Hapo-ERP-bs-scss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hapo-ERP-bs-scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -115,6 +533,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hapo-Training-Frontend" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,34 +562,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516869594133</updated>
-      <workItem from="1516869600631" duration="735000" />
+      <workItem from="1516869600631" duration="7658000" />
+      <workItem from="1516882886688" duration="421000" />
+      <workItem from="1516935518491" duration="2080000" />
+      <workItem from="1517027151158" duration="4763000" />
+      <workItem from="1517153298659" duration="5063000" />
+      <workItem from="1517207609730" duration="16954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="735000" />
+    <option name="totallyTimeSpent" value="36939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33082706" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33082706" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33082706" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495114" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -178,35 +627,330 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/responsive.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <folding>
+            <marker date="1517224782647" expanded="true" signature="81:107" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8369" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#167#804#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="1062">
+          <caret line="59" column="24" lean-forward="true" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="12" lean-forward="true" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <marker date="1517224782647" expanded="true" signature="81:107" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8369" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#167#804#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#167#804#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <marker date="1517224782647" expanded="true" signature="81:107" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8369" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <marker date="1517224782647" expanded="true" signature="81:107" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8369" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#167#804#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <marker date="1517224782647" expanded="true" signature="81:107" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8369" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#167#804#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themify-icons/SVG/na.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1517224782647" expanded="true" signature="81:107" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8369" ph="{...}" />
+            <marker date="1517224782647" expanded="true" signature="7556:8371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1692">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+          <folding>
+            <element signature="e#167#804#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="230" column="26" lean-forward="true" selection-start-line="230" selection-start-column="26" selection-end-line="230" selection-end-column="26" />
+          <folding>
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

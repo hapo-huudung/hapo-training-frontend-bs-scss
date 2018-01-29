@@ -1,0 +1,138 @@
+@media screen and (max-width: 768px){
+  body{
+    line-height: 21px;
+  }
+  .start-now{
+    padding: 13px 27px;
+    font-size: 14px;
+    line-height: 19px;
+  }
+  header{
+    height: 425.2px;
+    .container{
+      padding-top: 19px;
+      img{
+        width: 144px;
+      }
+      .about-us{
+        font-weight: 0;
+      }
+      .hapo-erp{
+        padding-top: 30px;
+      }
+      .row{
+        .group-icon{
+          padding-top: 40px;
+          div{
+            font-size: 24px;
+            margin-bottom: 7px;
+          }
+        }
+        p{
+          font-size: 24px;
+          line-height: 32px;
+        }
+      }
+      .slogan{
+        padding-top: 15px;
+        p{
+          font-size: 14px;
+          line-height: 19px;
+        }
+      }
+      .button{
+        padding-top: 30px;
+      }
+    }
+  }
+  .title{
+    font-size: 24px;
+    line-height: 32px;
+    [class^="ti-"]{
+      font-size: 20px;
+      margin-right: 14px;
+    }
+  }
+  .text{
+    font-size: 13px;
+    line-height: 24px;
+    }
+  .text-content{
+    line-height: 21px;
+    }
+  .today-i-learnt{
+    height: 687px;
+    text-align: center;
+    .container{
+      padding-top: 30px;
+      .text{
+        padding-top: 5px;
+        margin-bottom: 10px;
+      }
+      .text-content{
+        padding-top: 20.96px;
+      }
+      img{
+        margin: auto;
+      }
+      .button{
+        padding-top: 20px;
+      }
+    }
+  }
+  .daily-report{
+    height: 671px;
+    text-align: center;
+    .container{
+      padding-top: 30px;
+      .text{
+        padding-top: 5px;
+        margin-bottom: 15px;
+      }
+      .text-content{
+        padding: 0;
+      }
+      .image{
+        padding-top: 15px;
+        img{
+          margin: auto;
+        }
+      }
+      .button{
+        padding-top: 20px;
+      }
+    }
+  }
+  .members{
+    height:804px;
+    .container{
+      padding-top: 30px;
+      .title{
+        text-align: center;
+      }
+      .text{
+        text-align: center;
+        padding-top: 5px;
+        margin-bottom: 20px;
+      }
+      .line{
+        [class^="ti-"]{
+          font-size: 18px;
+        }
+        p{
+          padding-left: 13px;
+          font-size: 13px;
+          line-height: 21px;
+        }
+      }
+      .image{
+        img{
+          margin: auto;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 480px){
+
+}

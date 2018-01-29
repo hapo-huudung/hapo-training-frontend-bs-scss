@@ -1,5 +1,194 @@
 @import "variables";
-
-
-
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+body{
+  color: $color-2;
+  font-family: Roboto;
+  font-size: 13px;
+  line-height: 24px;
+  text-align: justify;
+}
+header{
+  height: 873px;
+  width: 100%;
+  background-image: url("../img/pc/banner.jpg");
+  background-repeat: no-repeat;
+}
+a{
+  text-decoration: none;
+}
+header{
+  .container{
+    padding-top: 43px;
+        .about-us{
+        float: right;
+        margin-right: 38px ;
+        margin-top: 10px;
+        }
+        .sign-in{
+          float: right;
+        }
+    .hapo-erp{
+      padding-top: 165px;
+      img{
+        margin: auto;
+      }
+    }
+    .row{
+      .group-icon{
+        padding-top: 53px;
+        float:left;
+        width: 33.3333333333%;
+        text-align: center;
+        div{
+          font-size: 48px;
+          color: $color-2;
+          margin-bottom: 14px;
+        }
+      }
+      p{
+        color: $color-2;
+        font-size: 36px;
+        font-weight: 300;
+        line-height: 48px;
+      }
+    }
+    .slogan{
+      padding-top: 44px;
+      p{
+        color: $color-2;
+        font-family: Roboto;
+        font-size: 18px;
+        font-style: italic;
+        line-height: 24px;
+        text-align:center ;
+        margin: 0;
+      }
+    }
+    .button{
+      padding-top: 31px;
+      text-align: center;
+    }
+  }
+}
+.today-i-learnt{
+  height: 571px;
+  background-color: $color-3;
+  box-shadow: 0 15px 35px 0 rgba(0,0,0,0.1);
+  .container{
+    padding-top: 100px;
+    .text{
+      padding-top: 15px;
+    }
+    .text-content{
+      padding-top: 25px;
+    }
+    .button{
+      padding-top: 30px;
+    }
+  }
+}
+.daily-report{
+  height: 570px;
+  .container{
+    padding-top: 100px;
+    .text{
+      padding-top: 15px;
+    }
+    .text-content{
+      padding-top: 25px;
+    }
+    .button{
+      padding-top: 30px;
+    }
+    .image{
+      padding-top: 16px;
+    }
+  }
+}
+.circle{
+  height: 322px;
+  background: linear-gradient(315deg, #B4EC51 0%, #429321 100%);
+}
+.members{
+  height: 588px;
+  .container{
+    padding-top: 100px;
+    .text{
+      padding-top: 15px;
+      margin-bottom: 26px;
+    }
+    .line{
+      height:50px;
+      margin-top: 17px;
+      p{
+        padding-left: 18px;
+      }
+    }
+    .button{
+      padding-top: 30px;
+    }
+  }
+}
+.customer{
+  height: 578px;
+  background-color: $color-3;
+  box-shadow: 0 15px 35px 0 rgba(0,0,0,0.5);
+  padding-top: 100px;
+  .image{
+    padding-top: 24px;
+  }
+  .text{
+    padding-top: 15px;
+    margin-bottom: 25px;
+  }
+  .line{
+    height:50px;
+    margin-top: 17px;
+    p{
+      padding-left: 18px;
+    }
+  }
+  .button{
+    padding-top: 30px;
+  }
+}
+.our-customer{
+  height: 544px;
+  background-color: rgba(40,50,56,0.9);
+}
+.project{
+  height: 570px;
+  .container{
+    padding-top: 100px;
+    .text{
+      padding-top: 15px;
+    }
+    .text-content{
+      padding-top: 25px;
+      margin-bottom: 30px;
+    }
+    .image{
+      padding-top: 16px;
+    }
+  }
+}
+footer{
+  height: 180px;
+  border: 1px solid #ECEFF1;
+  background-color: #39474E;
+  box-shadow: 0 15px 35px 0 rgba(0,0,0,0.1);
+  .p-title{
+    padding-top: 54px;
+    margin-bottom: 14px;
+  }
+  .social-network{
+    margin-top: 108px;
+    [class^="ti-"]{
+      margin-right: 37px;
+    }
+    .ti-linkedin{
+      margin-right: 0px;
+    }
+  }
+}
 @import "responsive";
