@@ -4,6 +4,16 @@ $color-3:#FFFFFF;
 $color-4:#444444;
 $color-5:#39474E;
 $color-6:#D0D8DC;
+$color-7:#7CB342;
+@font-face {
+  font-family: Roboto-Light;
+  src:url("../font/roboto/Roboto-Light.ttf");
+}
+@font-face {
+  font-family: Roboto-Italic;
+  src: url("../font/roboto/Roboto-Italic.tff");
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
 a{
   &:hover{
     text-decoration: none;
@@ -64,7 +74,7 @@ img{
 }
 .text-content{
   color: $color-2;
-  font-size: 13px;
+  font-size: 13.3px;
   line-height: 24px;
   text-align: justify;
 }
@@ -75,12 +85,10 @@ img{
     float: left;
   }
   p{
+    font-family: Roboto-Light;
     width: 93.5%;
     float:left;
   }
-}
-li{
-  list-style-type: none;
 }
 .col-lg-2{
   padding: 0;
@@ -101,5 +109,48 @@ footer{
   [class^="ti-"]{
     font-size: 13px;
     color: $color-1;
+  }
+}
+.group{
+  >p{
+    padding-top: 20px;
+    color: $color-3;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 24px;
+  }
+}
+.oval{
+  box-sizing: border-box;
+  height: 109.5px;
+  width: 109.5px;
+  border: 2.5px solid $color-3;
+  border-radius: 50%;
+  position: relative;
+  [class^="ti-"] {
+    color: $color-3;
+    font-size: 36px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .mini-oval{
+    box-sizing: border-box;
+    height: 45.5px;
+    width: 45.5px;
+    border-radius: 50%;
+    border: 2.5px solid $color-3;
+    background-color: $color-7;
+    position: absolute;
+    top:75%;
+    left:30%;
+    p{
+      font-size: 24px;
+      letter-spacing: 1px;
+      color: $color-3;
+      padding: 8px 13px;
+    }
   }
 }

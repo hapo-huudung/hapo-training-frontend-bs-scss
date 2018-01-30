@@ -1,5 +1,4 @@
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
 body{
   color: $color-2;
   font-family: Roboto;
@@ -108,6 +107,15 @@ header{
 .circle{
   height: 322px;
   background: linear-gradient(315deg, #B4EC51 0%, #429321 100%);
+  .container{
+    padding-top: 68px;
+    .group{
+      text-align: center;
+      .oval{
+        margin: auto;
+      }
+    }
+  }
 }
 .members{
   height: 588px;
@@ -124,6 +132,10 @@ header{
         padding-left: 18px;
       }
     }
+    img{
+      margin: auto;
+      max-width: 100%;
+    }
     .button{
       padding-top: 30px;
     }
@@ -133,24 +145,31 @@ header{
   height: 578px;
   background-color: $color-3;
   box-shadow: 0 15px 35px 0 rgba(0,0,0,0.5);
-  padding-top: 100px;
-  .image{
-    padding-top: 24px;
-  }
-  .text{
-    padding-top: 15px;
-    margin-bottom: 25px;
-  }
-  .line{
-    height:50px;
-    margin-top: 17px;
-    p{
-      padding-left: 18px;
+  .container{
+    padding-top: 100px;
+    .image{
+      padding-top: 24px;
+      img{
+        margin: auto;
+        max-width: 100%;
+      }
+    }
+    .text{
+      padding-top: 15px;
+      margin-bottom: 25px;
+    }
+    .line{
+      height:50px;
+      margin-top: 17px;
+      p{
+        padding-left: 18px;
+      }
+    }
+    .button{
+      padding-top: 30px;
     }
   }
-  .button{
-    padding-top: 30px;
-  }
+
 }
 .our-customer{
   height: 544px;
@@ -165,10 +184,16 @@ header{
     }
     .text-content{
       padding-top: 25px;
-      margin-bottom: 30px;
     }
     .image{
       padding-top: 16px;
+      img{
+        margin: auto;
+        max-width: 100%;
+      }
+    }
+    .button{
+      padding-top: 30px;
     }
   }
 }

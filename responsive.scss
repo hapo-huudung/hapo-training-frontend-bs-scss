@@ -1,21 +1,43 @@
 @media screen and (max-width: 768px){
-  body{
-    line-height: 21px;
-  }
   .start-now{
     padding: 13px 27px;
     font-size: 14px;
     line-height: 19px;
   }
+  .title{
+    font-size: 36px;
+    line-height: 48px;
+    [class^="ti-"]{
+      font-size: 30px;
+      margin-right: 13px;
+    }
+  }
+  .text{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: Roboto-Italic;
+  }
+  .text-content{
+    font-size: 11px;
+    line-height: 21px;
+  }
+  .line{
+    [class^="ti-"]{
+      font-size: 18px;
+    }
+    p{
+      font-size: 11px;
+      line-height: 21px;
+      text-align: justify;
+    }
+  }
   header{
-    height: 425.2px;
+    height: 426px;
+    background-image: url("../img/MB/banner.jpg");
     .container{
       padding-top: 19px;
       img{
         width: 144px;
-      }
-      .about-us{
-        font-weight: 0;
       }
       .hapo-erp{
         padding-top: 30px;
@@ -36,6 +58,7 @@
       .slogan{
         padding-top: 15px;
         p{
+          font-family: Roboto-Italic;
           font-size: 14px;
           line-height: 19px;
         }
@@ -45,34 +68,219 @@
       }
     }
   }
+  .today-i-learnt{
+    height: 526px;
+    text-align: center;
+    .container{
+      padding-top: 51px;
+      .text{
+        padding-top: 15px;
+      }
+      .text-content{
+        padding-top: 25px;
+        }
+      img{
+          max-width: 100%;
+          padding-top: 25px;
+          margin: auto;
+        }
+    }
+  }
+  .daily-report{
+    height: 520px;
+    .container{
+      text-align: center;
+      padding-top: 50px;
+      .text{
+        padding-top: 15px;
+      }
+      .text-content{
+        padding-top: 31px;
+        text-align: justify;
+      }
+      .image{
+        padding-top: 33px;
+        img{
+          margin: auto;
+          max-width: 100%;
+        }
+      }
+      .button{
+        padding-top: 20px;
+      }
+    }
+  }
+  .members{
+    height:557px;
+    .container{
+      padding-top: 30px;
+      text-align: center;
+      .text{
+        padding-top: 15px;
+        margin-bottom: 39px;
+      }
+      .line{
+        height: 61px;
+        margin-bottom: 20px;
+        p{
+          padding-left: 11px;
+        }
+      }
+      img{
+          max-width: 100%;
+          margin: auto;
+        }
+    }
+  }
+  .customer{
+    height:503px;
+    .container{
+      text-align: center;
+      padding-top: 39px;
+      .text{
+        padding-top: 15px;
+        margin-bottom: 0px;
+      }
+      img{
+        margin: auto;
+        width: 100%;
+      }
+      .line{
+        height: 63px;
+        margin-bottom: 15px;
+        p{
+          padding-left: 11px;
+          text-align: justify;
+        }
+      }
+    }
+  }
+  .project{
+    height: 518px;
+    .container{
+      text-align: center;
+      padding-top: 50px;
+      .text{
+        padding-top: 15px;
+      }
+      img{
+        padding-top: 18px;
+        margin: auto;
+        max-width: 100%;
+      }
+      .text-content{
+        text-align: justify;
+        padding-top: 25px;
+      }
+    }
+  }
+  footer{
+    .social-network{
+      [class^="ti-"]{
+        margin-right: 17px;
+      }
+      .ti-linkedin{
+        margin-right: 0px;
+      }
+    }
+  }
+}
+@media screen and (max-width: 480px){
+  .start-now{
+    padding: 11px 27px;
+    font-size: 14px;
+    line-height: 19px;
+  }
   .title{
     font-size: 24px;
     line-height: 32px;
     [class^="ti-"]{
       font-size: 20px;
-      margin-right: 14px;
+      margin-right: 13px;
     }
   }
   .text{
     font-size: 13px;
     line-height: 24px;
-    }
+    font-family: Roboto-Italic;
+  }
   .text-content{
+    font-size: 13px;
     line-height: 21px;
+  }
+  .line{
+    [class^="ti-"]{
+      font-size: 18px;
     }
+    p{
+      font-size: 13px;
+      line-height: 21px;
+      text-align: justify;
+    }
+  }
+  .p-title{
+    font-size: 12px;
+    line-height: 16px;
+  }
+  header{
+    height:265.75px;
+    background-image: url("../img/MB/Rectangle.jpg");
+    .container{
+      padding-top: 15px;
+      .hapo-erp{
+        padding-top: 8px;
+        img{
+          width: 96px;
+        }
+      }
+      .about-us{
+        font-weight: 500;
+        margin-right: 23px;
+      }
+      .sign-in{
+        margin-right: 5px;
+      }
+      .row{
+        .group-icon{
+          padding-top:20px;
+          div{
+            font-size: 18px;
+            margin-bottom: 8px;
+          }
+        }
+        p{
+          font-size: 18px;
+          line-height: 24px;
+        }
+      }
+      .slogan{
+        padding-top: 15px;
+        p{
+          font-family: Roboto-Italic;
+          font-size: 9px;
+          line-height: 11px;
+        }
+      }
+      .button{
+        padding-top: 15px;
+      }
+    }
+  }
   .today-i-learnt{
     height: 687px;
-    text-align: center;
     .container{
       padding-top: 30px;
+      text-align: center;
       .text{
         padding-top: 5px;
-        margin-bottom: 10px;
       }
       .text-content{
-        padding-top: 20.96px;
+        padding-top: 21px;
+        text-align: justify;
       }
       img{
+        max-width: 100%;
+        padding-top: 10px;
         margin: auto;
       }
       .button{
@@ -82,57 +290,99 @@
   }
   .daily-report{
     height: 671px;
-    text-align: center;
     .container{
+      text-align: center;
       padding-top: 30px;
       .text{
         padding-top: 5px;
-        margin-bottom: 15px;
       }
       .text-content{
-        padding: 0;
+        padding-top: 15px;
       }
       .image{
         padding-top: 15px;
         img{
+          max-width: 100%;
           margin: auto;
         }
       }
       .button{
-        padding-top: 20px;
+        padding-top: 15px;
       }
     }
   }
   .members{
-    height:804px;
+    height: 804px;
     .container{
       padding-top: 30px;
-      .title{
-        text-align: center;
-      }
+      text-align: center;
       .text{
-        text-align: center;
-        padding-top: 5px;
-        margin-bottom: 20px;
+        padding-top:5px;
+        margin-bottom: 0px;
       }
       .line{
-        [class^="ti-"]{
-          font-size: 18px;
-        }
+        height: 67px;
+        margin-bottom: 15px;
         p{
           padding-left: 13px;
-          font-size: 13px;
-          line-height: 21px;
         }
       }
       .image{
         img{
+          max-width: 100%;
           margin: auto;
         }
       }
     }
   }
-}
-@media screen and (max-width: 480px){
-
+  .customer{
+    height: 0px;
+  }
+  .project{
+    height: 671px;
+    .container{
+      text-align: center;
+      padding-top: 30px;
+      .text{
+        padding-top: 5px;
+      }
+      .text-content{
+        padding-top: 10px;
+      }
+      .image{
+        padding-top: 0px;
+        img{
+          max-width: 100%;
+          margin: auto;
+        }
+      }
+      .button{
+        padding-top: 10px;
+      }
+    }
+  }
+  footer{
+    height: 210px;
+    .container{
+      padding-top: 24px;
+      [class^="col-xs-"]{
+        padding-left: 10px;
+        padding-right: 0px;
+      }
+      .p-title{
+        padding-top: 25px;
+      }
+      .social-network{
+        margin-top:0px ;
+        padding-top: 24px;
+        [class^="ti-"]{
+          font-size: 13px;
+          margin-right: 21px;
+        }
+        .ti-linkedin{
+          margin-right: 0px;
+        }
+      }
+    }
+  }
 }
