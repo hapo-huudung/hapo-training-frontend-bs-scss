@@ -1,4 +1,4 @@
-@media screen and (max-width: 768px){
+@media screen and (min-width: 768px) and (max-width: 991px){
   .start-now{
     padding: 13px 27px;
     font-size: 14px;
@@ -31,9 +31,15 @@
       text-align: justify;
     }
   }
+  .group{
+    >p{
+      font-size: 16px;
+      line-height: 21px;
+    }
+  }
   header{
     height: 426px;
-    background-image: url("../img/MB/banner.jpg");
+    background-image: url("../img/pc1/banner.jpg");
     .container{
       padding-top: 19px;
       img{
@@ -110,6 +116,12 @@
       }
     }
   }
+  .circle{
+    height:288px;
+    .container{
+      padding-top: 48.75px;
+    }
+  }
   .members{
     height:557px;
     .container{
@@ -155,6 +167,12 @@
       }
     }
   }
+  .our-customer{
+    background-image: url("../img/tb/Rectangle3.jpg");
+    .container{
+      padding-top: 50px;
+    }
+  }
   .project{
     height: 518px;
     .container{
@@ -185,7 +203,7 @@
     }
   }
 }
-@media screen and (max-width: 480px){
+@media screen and (min-width: 480px) and (max-width: 767px){
   .start-now{
     padding: 11px 27px;
     font-size: 14px;
@@ -221,6 +239,27 @@
   .p-title{
     font-size: 12px;
     line-height: 16px;
+  }
+  h2{
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .info{
+    padding-top: 38px;
+  }
+  [class^="ti-quote-"]
+  {
+    font-size: 48px;
+    line-height: 48px;
+  }
+  .description{
+    font-size: 14px;
+    line-height:25px ;
+  }
+  .col-lg-1{
+    .simple-right{
+      padding-top: 0px;
+    }
   }
   header{
     height:265.75px;
@@ -311,6 +350,18 @@
       }
     }
   }
+  .circle{
+      height: 296px;
+    .container{
+      padding-top: 38.75px;
+      .group{
+        >p{
+          font-size: 14px;
+          line-height: 19px;
+        }
+      }
+    }
+  }
   .members{
     height: 804px;
     .container{
@@ -337,6 +388,21 @@
   }
   .customer{
     height: 0px;
+  }
+  .our-customer{
+    height: 525px;
+    background-image: url("../img/MB/Rectangle3.jpg");
+    .container{
+      padding-top: 25px;
+      .description{
+        margin: 0;
+      }
+      .col-xs-2{
+        .simple-left{
+          margin-top: 16px;
+        }
+      }
+    }
   }
   .project{
     height: 671px;
@@ -365,10 +431,7 @@
     height: 210px;
     .container{
       padding-top: 24px;
-      [class^="col-xs-"]{
-        padding-left: 10px;
-        padding-right: 0px;
-      }
+
       .p-title{
         padding-top: 25px;
       }

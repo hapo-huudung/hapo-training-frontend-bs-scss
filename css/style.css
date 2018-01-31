@@ -143,6 +143,68 @@ footer [class^="ti-"] {
       color: #FFFFFF;
       padding: 8px 13px; }
 
+h2 {
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 63px;
+  color: #FFFFFF;
+  margin: 0; }
+
+[class^="ti-quote-"] {
+  opacity: 0.4;
+  color: #FFFFFF;
+  font-size: 72px;
+  line-height: 73px;
+  text-align: justify; }
+
+.description {
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: justify; }
+
+.info {
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s; }
+
+.info:hover {
+  max-width: 100%;
+  -moz-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2); }
+
+.oval-ava-small {
+  height: 80px;
+  width: 80px;
+  margin: auto; }
+
+.info {
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 48px;
+  padding-bottom: 19px; }
+  .info .name {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 25px; }
+  .info .job {
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 10px; }
+
+.col-lg-1 .simple-right {
+  margin-top: -15px; }
+
+.copyright {
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 13px;
+  color: #D0D8DC; }
+
 body {
   color: #283238;
   font-family: Roboto;
@@ -281,7 +343,13 @@ header .container {
 
 .our-customer {
   height: 544px;
-  background-color: rgba(40, 50, 56, 0.9); }
+  background-color: rgba(40, 50, 56, 0.9);
+  background-image: url("../img/pc/Rectangle3.jpg"); }
+  .our-customer .container {
+    text-align: center;
+    padding-top: 50px; }
+    .our-customer .container .description {
+      margin-top: 51px; }
 
 .project {
   height: 570px; }
@@ -314,8 +382,12 @@ footer {
       margin-right: 37px; }
     footer .social-network .ti-linkedin {
       margin-right: 0px; }
+  footer .column {
+    padding-top: 47px; }
+  footer .copyright {
+    padding-top: 46px; }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 991px) {
   .start-now {
     padding: 13px 27px;
     font-size: 14px;
@@ -339,9 +411,12 @@ footer {
     font-size: 11px;
     line-height: 21px;
     text-align: justify; }
+  .group > p {
+    font-size: 16px;
+    line-height: 21px; }
   header {
     height: 426px;
-    background-image: url("../img/MB/banner.jpg"); }
+    background-image: url("../img/pc1/banner.jpg"); }
     header .container {
       padding-top: 19px; }
       header .container img {
@@ -394,6 +469,10 @@ footer {
           max-width: 100%; }
       .daily-report .container .button {
         padding-top: 20px; }
+  .circle {
+    height: 288px; }
+    .circle .container {
+      padding-top: 48.75px; }
   .members {
     height: 557px; }
     .members .container {
@@ -427,6 +506,10 @@ footer {
         .customer .container .line p {
           padding-left: 11px;
           text-align: justify; }
+  .our-customer {
+    background-image: url("../img/tb/Rectangle3.jpg"); }
+    .our-customer .container {
+      padding-top: 50px; }
   .project {
     height: 518px; }
     .project .container {
@@ -446,7 +529,7 @@ footer {
   footer .social-network .ti-linkedin {
     margin-right: 0px; } }
 
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 480px) and (max-width: 767px) {
   .start-now {
     padding: 11px 27px;
     font-size: 14px;
@@ -473,6 +556,19 @@ footer {
   .p-title {
     font-size: 12px;
     line-height: 16px; }
+  h2 {
+    font-size: 24px;
+    line-height: 32px; }
+  .info {
+    padding-top: 38px; }
+  [class^="ti-quote-"] {
+    font-size: 48px;
+    line-height: 48px; }
+  .description {
+    font-size: 14px;
+    line-height: 25px; }
+  .col-lg-1 .simple-right {
+    padding-top: 0px; }
   header {
     height: 265.75px;
     background-image: url("../img/MB/Rectangle.jpg"); }
@@ -535,6 +631,13 @@ footer {
           margin: auto; }
       .daily-report .container .button {
         padding-top: 15px; }
+  .circle {
+    height: 296px; }
+    .circle .container {
+      padding-top: 38.75px; }
+      .circle .container .group > p {
+        font-size: 14px;
+        line-height: 19px; }
   .members {
     height: 804px; }
     .members .container {
@@ -553,6 +656,15 @@ footer {
         margin: auto; }
   .customer {
     height: 0px; }
+  .our-customer {
+    height: 525px;
+    background-image: url("../img/MB/Rectangle3.jpg"); }
+    .our-customer .container {
+      padding-top: 25px; }
+      .our-customer .container .description {
+        margin: 0; }
+      .our-customer .container .col-xs-2 .simple-left {
+        margin-top: 16px; }
   .project {
     height: 671px; }
     .project .container {
@@ -573,9 +685,6 @@ footer {
     height: 210px; }
     footer .container {
       padding-top: 24px; }
-      footer .container [class^="col-xs-"] {
-        padding-left: 10px;
-        padding-right: 0px; }
       footer .container .p-title {
         padding-top: 25px; }
       footer .container .social-network {

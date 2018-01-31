@@ -1,16 +1,16 @@
 $(document).ready(function() {
     var owl = $('.owl-carousel');
     owl.owlCarousel({
-        items: 5,
-        loop: false,
         padding:10,
-        autoplay: false,
-        autoplayHoverPause: true
+        responsive:{
+            480:{
+                items:3,
+                loop:false
+            },
+            768:{
+                items:5,
+                loop:false
+            }
+        }
     });
-    $('.play').on('click', function() {
-        owl.trigger('play.owl.autoplay', [1000])
-    })
-    $('.stop').on('click', function() {
-        owl.trigger('stop.owl.autoplay')
-    })
 })

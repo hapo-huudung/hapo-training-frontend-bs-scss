@@ -154,3 +154,72 @@ footer{
     }
   }
 }
+h2{
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 63px;
+  color: $color-3;
+  margin: 0;
+}
+[class^="ti-quote-"]
+{
+  opacity: 0.4;
+  color: $color-3;
+  font-size: 72px;
+  line-height: 73px;
+  text-align: justify;
+}
+.description{
+  color: $color-3;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: justify;
+}
+%tranzition{
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+%tranform{
+  max-width: 100%;
+  -moz-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.oval-ava-small{
+  height: 80px;
+  width: 80px;
+  margin: auto;
+}
+.info{
+  color: $color-3;
+  text-align: center;
+  padding-top: 48px;
+  padding-bottom: 19px;
+  @extend %tranzition;
+  .name{
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 25px;
+  }
+  .job{
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 10px;
+  }
+}
+.info:hover{
+  @extend %tranform;
+}
+.col-lg-1{
+  .simple-right{
+    margin-top: -15px;
+  }
+}
+.copyright{
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 13px;
+  color: $color-6;
+}

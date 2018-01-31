@@ -174,7 +174,15 @@ header{
 .our-customer{
   height: 544px;
   background-color: rgba(40,50,56,0.9);
-}
+  background-image: url("../img/pc/Rectangle3.jpg");
+  .container{
+    text-align: center;
+    padding-top: 50px;
+    .description{
+        margin-top: 51px;
+    }
+  }
+  }
 .project{
   height: 570px;
   .container{
@@ -197,23 +205,29 @@ header{
     }
   }
 }
-footer{
+footer {
   height: 180px;
   border: 1px solid #ECEFF1;
   background-color: #39474E;
-  box-shadow: 0 15px 35px 0 rgba(0,0,0,0.1);
-  .p-title{
+  box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.1);
+  .p-title {
     padding-top: 54px;
     margin-bottom: 14px;
   }
-  .social-network{
+  .social-network {
     margin-top: 108px;
-    [class^="ti-"]{
+    [class^="ti-"] {
       margin-right: 37px;
     }
-    .ti-linkedin{
+    .ti-linkedin {
       margin-right: 0px;
     }
+  }
+  .column{
+    padding-top: 47px;
+  }
+  .copyright{
+    padding-top: 46px;
   }
 }
 @import "responsive";
