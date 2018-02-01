@@ -112,6 +112,7 @@ footer{
   }
 }
 .group{
+  width: 200px;
   >p{
     padding-top: 20px;
     color: $color-3;
@@ -222,4 +223,14 @@ h2{
   font-weight: 500;
   line-height: 13px;
   color: $color-6;
+}
+.slick-dots li button:before{
+  font-size: 10px;
+  color: $color-3;
+}
+.slick-dots li.slick-active button:before{
+  color: $color-3;
+}
+.slick-slide{
+  outline: none;
 }
