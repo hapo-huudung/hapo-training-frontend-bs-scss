@@ -70,17 +70,28 @@ header{
     }
   }
 }
+
+.col-md-6 {
+  img {
+    max-width: 100%;
+  }
+}
+
 .today-i-learnt{
   height: 571px;
   background-color: $color-3;
   box-shadow: 0 15px 35px 0 rgba(0,0,0,0.1);
   .container{
     padding-top: 100px;
+
     .text{
       padding-top: 15px;
     }
     .text-content{
       padding-top: 25px;
+    }
+    img{
+      max-width: 100%;
     }
     .button{
       padding-top: 30px;
@@ -102,6 +113,9 @@ header{
     }
     .image{
       padding-top: 16px;
+      img{
+        max-width: 100%;
+      }
     }
   }
 }
