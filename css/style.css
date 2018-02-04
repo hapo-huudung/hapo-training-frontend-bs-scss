@@ -225,7 +225,6 @@ body {
   text-align: justify; }
 
 header {
-  height: 873px;
   width: 100%;
   background-image: url("../img/pc/banner.jpg");
   background-repeat: no-repeat;
@@ -272,13 +271,13 @@ header .container {
       margin: 0; }
   header .container .button {
     padding-top: 31px;
+    padding-bottom: 233px;
     text-align: center; }
 
 .col-md-6 img {
   max-width: 100%; }
 
 .today-i-learnt {
-  height: 571px;
   background-color: #FFFFFF;
   -webkit-box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.1); }
@@ -291,55 +290,53 @@ header .container {
     .today-i-learnt .container img {
       max-width: 100%; }
     .today-i-learnt .container .button {
-      padding-top: 30px; }
+      padding-top: 30px;
+      padding-bottom: 101px; }
 
-.daily-report {
-  height: 570px; }
-  .daily-report .container {
-    padding-top: 100px; }
-    .daily-report .container .text {
-      padding-top: 15px; }
-    .daily-report .container .text-content {
-      padding-top: 25px; }
-    .daily-report .container .button {
-      padding-top: 30px; }
-    .daily-report .container .image {
-      padding-top: 16px; }
-      .daily-report .container .image img {
-        max-width: 100%; }
+.daily-report .container {
+  padding-top: 100px; }
+  .daily-report .container .text {
+    padding-top: 15px; }
+  .daily-report .container .text-content {
+    padding-top: 25px; }
+  .daily-report .container .button {
+    padding-top: 30px;
+    padding-bottom: 100px; }
+  .daily-report .container .image {
+    padding-top: 16px; }
+    .daily-report .container .image img {
+      max-width: 100%; }
 
 .circle {
-  height: 322px;
   background: -webkit-linear-gradient(135deg, #B4EC51 0%, #429321 100%);
   background: -o-linear-gradient(135deg, #B4EC51 0%, #429321 100%);
   background: linear-gradient(315deg, #B4EC51 0%, #429321 100%); }
   .circle .container {
-    padding-top: 68px; }
+    padding-top: 68px;
+    padding-bottom: 70px; }
     .circle .container .group {
       text-align: center; }
       .circle .container .group .oval {
         margin: auto; }
 
-.members {
-  height: 588px; }
-  .members .container {
-    padding-top: 100px; }
-    .members .container .text {
-      padding-top: 15px;
-      margin-bottom: 26px; }
-    .members .container .line {
-      height: 50px;
-      margin-top: 17px; }
-      .members .container .line p {
-        padding-left: 18px; }
-    .members .container img {
-      margin: auto;
-      max-width: 100%; }
-    .members .container .button {
-      padding-top: 30px; }
+.members .container {
+  padding-top: 100px; }
+  .members .container .text {
+    padding-top: 15px;
+    margin-bottom: 26px; }
+  .members .container .line {
+    height: 50px;
+    margin-top: 17px; }
+    .members .container .line p {
+      padding-left: 18px; }
+  .members .container img {
+    margin: auto;
+    max-width: 100%; }
+  .members .container .button {
+    padding-top: 30px;
+    padding-bottom: 101px; }
 
 .customer {
-  height: 578px;
   background-color: #FFFFFF;
   -webkit-box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.5);
   box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.5); }
@@ -359,53 +356,55 @@ header .container {
       .customer .container .line p {
         padding-left: 18px; }
     .customer .container .button {
-      padding-top: 30px; }
+      padding-top: 30px;
+      padding-bottom: 100px; }
 
 .our-customer {
-  height: 544px;
   background-color: rgba(40, 50, 56, 0.9);
-  background-image: url("../img/pc/Rectangle3.jpg"); }
+  background-image: url("../img/pc/Rectangle3.jpg");
+  background-repeat: no-repeat; }
   .our-customer .container {
     text-align: center;
-    padding-top: 50px; }
+    padding-top: 50px;
+    padding-bottom: 29px; }
     .our-customer .container .description {
       margin-top: 51px; }
 
-.project {
-  height: 570px; }
-  .project .container {
-    padding-top: 100px; }
-    .project .container .text {
-      padding-top: 15px; }
-    .project .container .text-content {
-      padding-top: 25px; }
-    .project .container .image {
-      padding-top: 16px; }
-      .project .container .image img {
-        margin: auto;
-        max-width: 100%; }
-    .project .container .button {
-      padding-top: 30px; }
+.project .container {
+  padding-top: 100px; }
+  .project .container .text {
+    padding-top: 15px; }
+  .project .container .text-content {
+    padding-top: 25px; }
+  .project .container .image {
+    padding-top: 16px; }
+    .project .container .image img {
+      margin: auto;
+      max-width: 100%; }
+  .project .container .button {
+    padding-bottom: 100px;
+    padding-top: 30px; }
 
 footer {
-  height: 180px;
   border: 1px solid #ECEFF1;
   background-color: #39474E;
   -webkit-box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.1); }
-  footer .p-title {
-    padding-top: 54px;
-    margin-bottom: 14px; }
-  footer .social-network {
-    margin-top: 108px; }
-    footer .social-network [class^="ti-"] {
-      margin-right: 37px; }
-    footer .social-network .ti-linkedin {
-      margin-right: 0px; }
-  footer .column {
-    padding-top: 47px; }
-  footer .copyright {
-    padding-top: 46px; }
+  footer .container {
+    padding-bottom: 54px; }
+    footer .container .p-title {
+      padding-top: 54px;
+      margin-bottom: 14px; }
+    footer .container .social-network {
+      margin-top: 108px; }
+      footer .container .social-network [class^="ti-"] {
+        margin-right: 37px; }
+      footer .container .social-network .ti-linkedin {
+        margin-right: 0px; }
+    footer .container .column {
+      padding-top: 47px; }
+    footer .container .copyright {
+      padding-top: 46px; }
 
 @media screen and (max-width: 767px) {
   .start-now {
@@ -448,7 +447,6 @@ footer {
   .col-lg-1 .simple-right {
     padding-top: 0px; }
   header {
-    height: 265.75px;
     background-image: url("../img/MB/Rectangle.jpg");
     background-size: cover; }
     header .container {
@@ -477,111 +475,107 @@ footer {
           font-size: 9px;
           line-height: 11px; }
       header .container .button {
-        padding-top: 15px; }
-  .today-i-learnt {
-    height: 687px; }
-    .today-i-learnt .container {
-      padding-top: 30px;
-      text-align: center; }
-      .today-i-learnt .container .text {
-        padding-top: 5px; }
-      .today-i-learnt .container .text-content {
-        padding-top: 21px;
-        text-align: justify; }
-      .today-i-learnt .container img {
-        max-width: 100%;
-        padding-top: 10px;
-        margin: auto; }
-      .today-i-learnt .container .button {
-        padding-top: 20px; }
-  .daily-report {
-    height: 671px; }
-    .daily-report .container {
-      text-align: center;
-      padding-top: 30px; }
-      .daily-report .container .text {
-        padding-top: 5px; }
-      .daily-report .container .text-content {
-        padding-top: 15px; }
-      .daily-report .container .image {
-        padding-top: 15px; }
-        .daily-report .container .image img {
-          max-width: 100%;
-          margin: auto; }
-      .daily-report .container .button {
-        padding-top: 15px; }
-  .circle {
-    height: 296px; }
-    .circle .container {
-      padding-top: 38.75px; }
-      .circle .container .group > p {
-        font-size: 14px;
-        line-height: 19px; }
-  .members {
-    height: 804px; }
-    .members .container {
-      padding-top: 30px;
-      text-align: center; }
-      .members .container .text {
-        padding-top: 5px;
-        margin-bottom: 0px; }
-      .members .container .line {
-        height: 67px;
-        margin-bottom: 15px; }
-        .members .container .line p {
-          padding-left: 13px; }
-      .members .container .image img {
+        padding-top: 15px;
+        padding-bottom: 27px; }
+  .today-i-learnt .container {
+    padding-top: 30px;
+    text-align: center; }
+    .today-i-learnt .container .text {
+      padding-top: 5px; }
+    .today-i-learnt .container .text-content {
+      padding-top: 21px;
+      text-align: justify; }
+    .today-i-learnt .container img {
+      max-width: 100%;
+      padding-top: 10px;
+      margin: auto; }
+    .today-i-learnt .container .button {
+      padding-top: 20px;
+      padding-bottom: 30px; }
+  .daily-report .container {
+    text-align: center;
+    padding-top: 30px; }
+    .daily-report .container .text {
+      padding-top: 5px; }
+    .daily-report .container .text-content {
+      padding-top: 15px; }
+    .daily-report .container .image {
+      padding-top: 15px; }
+      .daily-report .container .image img {
         max-width: 100%;
         margin: auto; }
+    .daily-report .container .button {
+      padding-top: 15px;
+      padding-bottom: 30px; }
+  .circle .container {
+    padding-top: 38.75px;
+    padding-bottom: 39px; }
+    .circle .container .group > p {
+      font-size: 14px;
+      line-height: 19px; }
+  .members .container {
+    padding-top: 30px;
+    text-align: center; }
+    .members .container .text {
+      padding-top: 5px;
+      margin-bottom: 0px; }
+    .members .container .line {
+      height: 67px;
+      margin-bottom: 15px; }
+      .members .container .line p {
+        padding-left: 13px; }
+    .members .container .image img {
+      max-width: 100%;
+      margin: auto; }
+    .members .container .button {
+      padding-bottom: 30px; }
   .customer {
     height: 0px; }
   .our-customer {
-    height: 525px;
     background-image: url("../img/MB/Rectangle3.jpg"); }
     .our-customer .container {
-      padding-top: 25px; }
+      padding-top: 25px;
+      padding-bottom: 26px; }
       .our-customer .container .description {
         margin: 0; }
       .our-customer .container .col-xs-2 .simple-left {
         margin-top: 16px; }
-  .project {
-    height: 671px; }
-    .project .container {
-      text-align: center;
-      padding-top: 30px; }
-      .project .container .text {
-        padding-top: 5px; }
-      .project .container .text-content {
-        padding-top: 10px; }
-      .project .container .image {
-        padding-top: 0px; }
-        .project .container .image img {
-          max-width: 100%;
-          margin: auto; }
-      .project .container .button {
-        padding-top: 10px; }
-  footer {
-    height: 210px; }
-    footer .container {
+  .project .container {
+    text-align: center;
+    padding-top: 30px; }
+    .project .container .text {
+      padding-top: 5px; }
+    .project .container .text-content {
+      padding-top: 10px; }
+    .project .container .image {
+      padding-top: 0px; }
+      .project .container .image img {
+        max-width: 100%;
+        margin: auto; }
+    .project .container .button {
+      padding-top: 10px;
+      padding-bottom: 30px; }
+  footer .container {
+    padding-top: 24px;
+    padding-bottom: 29px; }
+    footer .container .col-xs-3 {
+      padding-right: 0;
+      padding-left: 10px; }
+    footer .container .col-xs-6 {
+      padding-left: 10px; }
+    footer .container .p-title {
+      padding-top: 25px; }
+    footer .container .copyright {
+      padding-top: 26px;
+      text-align: right; }
+    footer .container .social-network {
+      margin-top: 0px;
       padding-top: 24px; }
-      footer .container .col-xs-3 {
-        padding-right: 0;
-        padding-left: 10px; }
-      footer .container .col-xs-6 {
-        padding-left: 10px; }
-      footer .container .p-title {
-        padding-top: 25px; }
-      footer .container .copyright {
-        padding-top: 26px;
-        text-align: right; }
-      footer .container .social-network {
-        margin-top: 0px;
-        padding-top: 24px; }
-        footer .container .social-network [class^="ti-"] {
-          font-size: 13px;
-          margin-right: 21px; }
-        footer .container .social-network .ti-linkedin {
-          margin-right: 0px; } }
+      footer .container .social-network [class^="ti-"] {
+        font-size: 13px;
+        margin-right: 21px; }
+      footer .container .social-network .ti-linkedin {
+        margin-right: 0px; } }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .start-now {
@@ -626,7 +620,6 @@ footer {
     font-size: 36px;
     line-height: 48px; }
   header {
-    height: 426px;
     background-image: url("../img/tablet/Rectangle.jpg");
     background-size: cover; }
     header .container {
@@ -650,9 +643,9 @@ footer {
           font-size: 14px;
           line-height: 19px; }
       header .container .button {
-        padding-top: 30px; }
+        padding-top: 30px;
+        padding-bottom: 84.2px; }
   .today-i-learnt {
-    height: 526px;
     text-align: center; }
     .today-i-learnt .container {
       padding-top: 51px; }
@@ -664,83 +657,84 @@ footer {
         max-width: 100%;
         padding-top: 25px;
         margin: auto; }
-  .daily-report {
-    height: 520px; }
-    .daily-report .container {
-      text-align: center;
-      padding-top: 50px; }
-      .daily-report .container .text {
-        padding-top: 15px; }
-      .daily-report .container .text-content {
-        padding-top: 31px;
-        text-align: justify; }
-      .daily-report .container .image {
-        padding-top: 33px; }
-        .daily-report .container .image img {
-          margin: auto;
-          max-width: 100%; }
-      .daily-report .container .button {
-        padding-top: 20px; }
-  .circle {
-    height: 288px; }
-    .circle .container {
-      padding-top: 48.75px; }
-  .members {
-    height: 557px; }
-    .members .container {
-      padding-top: 30px;
-      text-align: center; }
-      .members .container .text {
-        padding-top: 15px;
-        margin-bottom: 39px; }
-      .members .container .line {
-        height: 61px;
-        margin-bottom: 20px; }
-        .members .container .line p {
-          padding-left: 11px; }
-      .members .container img {
-        max-width: 100%;
-        margin: auto; }
-  .customer {
-    height: 503px; }
-    .customer .container {
-      text-align: center;
-      padding-top: 39px; }
-      .customer .container .text {
-        padding-top: 15px;
-        margin-bottom: 0px; }
-      .customer .container img {
+      .today-i-learnt .container .button {
+        padding-bottom: 50px; }
+  .daily-report .container {
+    text-align: center;
+    padding-top: 50px; }
+    .daily-report .container .text {
+      padding-top: 15px; }
+    .daily-report .container .text-content {
+      padding-top: 31px;
+      text-align: justify; }
+    .daily-report .container .image {
+      padding-top: 33px; }
+      .daily-report .container .image img {
         margin: auto;
-        width: 100%; }
-      .customer .container .line {
-        height: 63px;
-        margin-bottom: 15px; }
-        .customer .container .line p {
-          padding-left: 11px;
-          text-align: justify; }
+        max-width: 100%; }
+    .daily-report .container .button {
+      padding-top: 20px;
+      padding-bottom: 50px; }
+  .circle .container {
+    padding-top: 48.75px;
+    padding-bottom: 50px; }
+  .members .container {
+    padding-top: 30px;
+    text-align: center; }
+    .members .container .text {
+      padding-top: 15px;
+      margin-bottom: 39px; }
+    .members .container .line {
+      height: 61px;
+      margin-bottom: 20px; }
+      .members .container .line p {
+        padding-left: 11px; }
+    .members .container img {
+      max-width: 100%;
+      margin: auto; }
+    .members .container .button {
+      padding-bottom: 38px; }
+  .customer .container {
+    text-align: center;
+    padding-top: 39px; }
+    .customer .container .text {
+      padding-top: 15px;
+      margin-bottom: 0px; }
+    .customer .container img {
+      margin: auto;
+      width: 100%; }
+    .customer .container .line {
+      height: 63px;
+      margin-bottom: 15px; }
+      .customer .container .line p {
+        padding-left: 11px;
+        text-align: justify; }
+    .customer .container .button {
+      padding-bottom: 50px; }
   .our-customer {
     background-image: url("../img/tb/Rectangle3.jpg"); }
     .our-customer .container {
-      padding-top: 50px; }
+      padding-top: 50px;
+      padding-bottom: 69px; }
       .our-customer .container .info {
         padding-top: 30px; }
-  .project {
-    height: 518px; }
-    .project .container {
-      text-align: center;
-      padding-top: 50px; }
-      .project .container .text {
-        padding-top: 15px; }
-      .project .container img {
-        padding-top: 18px;
-        margin: auto;
-        max-width: 100%; }
-      .project .container .text-content {
-        text-align: justify;
-        padding-top: 25px; }
-  footer .social-network [class^="ti-"] {
+  .project .container {
+    text-align: center;
+    padding-top: 50px; }
+    .project .container .text {
+      padding-top: 15px; }
+    .project .container img {
+      padding-top: 18px;
+      margin: auto;
+      max-width: 100%; }
+    .project .container .text-content {
+      text-align: justify;
+      padding-top: 25px; }
+    .project .container .button {
+      padding-bottom: 50px; }
+  footer .container .social-network [class^="ti-"] {
     margin-right: 17px; }
-  footer .social-network .ti-linkedin {
+  footer .container .social-network .ti-linkedin {
     margin-right: 0px; } }
 
 /*# sourceMappingURL=style.css.map */

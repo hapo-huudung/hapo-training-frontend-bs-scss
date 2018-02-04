@@ -7,7 +7,6 @@ body{
   text-align: justify;
 }
 header{
-  height: 873px;
   width: 100%;
   background-image: url("../img/pc/banner.jpg");
   background-repeat: no-repeat;
@@ -66,6 +65,7 @@ header{
     }
     .button{
       padding-top: 31px;
+      padding-bottom: 233px;
       text-align: center;
     }
   }
@@ -76,9 +76,7 @@ header{
     max-width: 100%;
   }
 }
-
 .today-i-learnt{
-  height: 571px;
   background-color: $color-3;
   box-shadow: 0 15px 35px 0 rgba(0,0,0,0.1);
   .container{
@@ -95,11 +93,11 @@ header{
     }
     .button{
       padding-top: 30px;
+      padding-bottom: 101px;
     }
   }
 }
 .daily-report{
-  height: 570px;
   .container{
     padding-top: 100px;
     .text{
@@ -110,6 +108,7 @@ header{
     }
     .button{
       padding-top: 30px;
+      padding-bottom: 100px;
     }
     .image{
       padding-top: 16px;
@@ -120,10 +119,10 @@ header{
   }
 }
 .circle{
-  height: 322px;
   background: linear-gradient(315deg, #B4EC51 0%, #429321 100%);
   .container{
     padding-top: 68px;
+    padding-bottom: 70px;
     .group{
       text-align: center;
       .oval{
@@ -133,7 +132,6 @@ header{
   }
 }
 .members{
-  height: 588px;
   .container{
     padding-top: 100px;
     .text{
@@ -153,11 +151,11 @@ header{
     }
     .button{
       padding-top: 30px;
+      padding-bottom: 101px;
     }
   }
 }
 .customer{
-  height: 578px;
   background-color: $color-3;
   box-shadow: 0 15px 35px 0 rgba(0,0,0,0.5);
   .container{
@@ -182,24 +180,25 @@ header{
     }
     .button{
       padding-top: 30px;
+      padding-bottom: 100px;
     }
   }
 
 }
 .our-customer{
-  height: 544px;
   background-color: rgba(40,50,56,0.9);
   background-image: url("../img/pc/Rectangle3.jpg");
+  background-repeat: no-repeat;
   .container{
     text-align: center;
     padding-top: 50px;
+    padding-bottom: 29px;
     .description{
         margin-top: 51px;
     }
   }
   }
 .project{
-  height: 570px;
   .container{
     padding-top: 100px;
     .text{
@@ -216,33 +215,37 @@ header{
       }
     }
     .button{
+      padding-bottom: 100px;
       padding-top: 30px;
     }
   }
 }
 footer {
-  height: 180px;
   border: 1px solid #ECEFF1;
   background-color: #39474E;
   box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.1);
-  .p-title {
-    padding-top: 54px;
-    margin-bottom: 14px;
-  }
-  .social-network {
-    margin-top: 108px;
-    [class^="ti-"] {
-      margin-right: 37px;
+  .container{
+    padding-bottom: 54px;
+    .p-title {
+      padding-top: 54px;
+      margin-bottom: 14px;
     }
-    .ti-linkedin {
-      margin-right: 0px;
+    .social-network {
+      margin-top: 108px;
+      [class^="ti-"] {
+        margin-right: 37px;
+      }
+      .ti-linkedin {
+        margin-right: 0px;
+      }
+    }
+    .column{
+      padding-top: 47px;
+    }
+    .copyright{
+      padding-top: 46px;
     }
   }
-  .column{
-    padding-top: 47px;
-  }
-  .copyright{
-    padding-top: 46px;
-  }
+
 }
 @import "responsive";
